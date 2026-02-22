@@ -8,18 +8,8 @@
 ## 🏅 Certifications & Badges
 
 ### Microsoft Certifications
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/mikedegu/83F26C05783EC769?sharingId"
-   target="_blank" rel="noopener noreferrer" style="display:inline-block;">
-  <img src="https://img.shields.io/badge/MB--280-Dynamics%20365%20CE%20Analyst-0078D4?logo=microsoft"
-       alt="MB-280 Dynamics 365 Customer Experience Analyst"
-       style="display:block;" />
-</a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/mikedegu/507924DC770D223C?sharingId"
-   target="_blank" rel="noopener noreferrer" style="display:inline-block;">
-  <img src="https://img.shields.io/badge/PL--400-Power%20Platform%20Developer-742774?logo=powerplatform"
-       alt="PL-400 Power Platform Developer Associate"
-       style="display:block;" />
-</a>
+[![MB-280](https://img.shields.io/badge/MB--280-Dynamics%20365%20CE%20Analyst-0078D4?logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/mikedegu/83F26C05783EC769?sharingId)
+[![PL-400](https://img.shields.io/badge/PL--400-Power%20Platform%20Developer-742774?logo=powerplatform)](https://learn.microsoft.com/api/credentials/share/en-us/mikedegu/507924DC770D223C?sharingId)
 
 ### Power Platform Stack
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?logo=powerapps&logoColor=white&style=flat)
@@ -103,9 +93,13 @@ I’m a Microsoft-certified Dynamics 365 CE and Power Platform professional with
 
 ## 🤝 Let’s Connect
 
-<a href="www.linkedin.com/in/mikedegu" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/mikedegu"
+   target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="24"
+       alt="LinkedIn" />
 </a>
+
 
 
 ---

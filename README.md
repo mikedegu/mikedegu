@@ -80,7 +80,7 @@ I’m a Microsoft-certified Dynamics 365 CE and Power Platform professional with
 - **power-automate-workflows**
   - Approval flows, integrations, and automation patterns
 - [**inbound-case-management**](https://github.com/mikedegu/inbound-case-management)
-  - A Power Platform–driven inbound message orchestration system that standardizes messages from SMS, email, and web chat, stores original content for audit, automatically creates Dynamics 365 cases, and notifies agents in real time, powered by Dataverse, Power Automate, and Dynamics 365 Customer Service.
+  - A Power Platform–driven inbound message orchestration system that standardizes messages from SMS, email, and web chat, stores original content for audit, automatically creates Dynamics 365 cases, and notifies agents in real time, powered by **Dataverse**, **Power Automate**, and **Dynamics 365 Customer Service**.
   
 ### Dataverse & Integration
 - **dataverse-data-modeling**

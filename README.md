@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Michael Jeffrey De Guzman
+# Hi, I'm Michael Jeffrey De Guzman
 
 **Microsoft Certified Dynamics 365 CE Analyst & Power Platform Developer**  
 5 years of CRM development experience | Dynamics 365 | Power Platform | Dataverse
 
 ---
 
-## 🏅 Certifications & Badges
+## Certifications & Badges
 
 ### Microsoft Certifications
 [![MB-280](https://img.shields.io/badge/MB--280-Dynamics%20365%20CE%20Analyst-0078D4?logo=microsoft)](https://learn.microsoft.com/api/credentials/share/en-us/mikedegu/83F26C05783EC769?sharingId)
@@ -26,13 +26,13 @@
 
 ---
 
-## ℹ️ About Me
+## About Me
 
 I’m a Microsoft-certified Dynamics 365 CE and Power Platform professional with a strong background in CRM customization, configuration, and integration. I enjoy building scalable business solutions, automating processes, and continuously sharpening my skills through hands-on labs, demos, and real-world scenarios.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### CRM & Power Platform
 - Dynamics 365 CE (Sales)
@@ -60,7 +60,7 @@ I’m a Microsoft-certified Dynamics 365 CE and Power Platform professional with
 
 ---
 
-## 🧭 Projects Roadmap
+## Projects Roadmap
 
 > Repositories below are being built and refined as part of my Power Platform and Dynamics 365 portfolio.
 
@@ -90,17 +90,18 @@ I’m a Microsoft-certified Dynamics 365 CE and Power Platform professional with
 
 ---
 
-## 📚 What I’m Currently Learning
+## What I’m Currently Learning
 
 - Advanced Power Fx patterns and performance optimization
 - PCF controls for enhanced UI experiences
 - Azure-based integrations for Dynamics 365 plugins
 - ALM best practices for Power Platform and Dataverse
 - Scenario-based solution design for enterprise CRM implementations
+- Copilot Studio custom agents for document processing and custom assistant for Microsoft365 ecosystem
 
 ---
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 <a href="https://www.linkedin.com/in/mikedegu"
    target="_blank" rel="noopener noreferrer">
@@ -113,4 +114,4 @@ I’m a Microsoft-certified Dynamics 365 CE and Power Platform professional with
 
 ---
 
-⭐ If you’re interested in Dynamics 365, Power Platform, or CRM automation, feel free to explore my repositories or connect with me.
+If you’re interested in Dynamics 365, Power Platform, or CRM automation, feel free to explore my repositories or connect with me.
